@@ -1,8 +1,4 @@
-/*// Este hacerAlgo() resta el valor de sus parámetros
-int hacerAlgo(int x, int y)
-{
-    return x - y;
-}*/
+#include "Segundo.h"
 
 namespace segundo // define un namespace llamado segundo
 {
@@ -12,3 +8,12 @@ namespace segundo // define un namespace llamado segundo
         return x - y;
     }
 }
+
+
+
+
+/*// Este hacerAlgo() resta el valor de sus parámetros
+int hacerAlgo(int x, int y)
+{
+    return x - y;
+}*/

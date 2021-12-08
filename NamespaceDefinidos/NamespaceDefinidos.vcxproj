@@ -143,6 +143,10 @@
     <ClCompile Include="Primero.cpp" />
     <ClCompile Include="Segundo.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Primero.h" />
+    <ClInclude Include="Segundo.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
