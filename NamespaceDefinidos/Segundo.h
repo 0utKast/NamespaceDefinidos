@@ -5,3 +5,5 @@ namespace segundo // define un namespace llamado segundo
     int hacerAlgo(int x, int y);
     
 }
+
+

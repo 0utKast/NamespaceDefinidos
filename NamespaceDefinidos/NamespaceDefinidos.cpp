@@ -1,11 +1,12 @@
 #include <iostream>
+
 #include "Primero.h"
 #include "Segundo.h"
 
 int main()
 {
     std::cout <<  primero::hacerAlgo(6, 5) << '\n'; // usa el hacerAlgo() que existe en el namespace primero
-    std::cout <<  segundo::hacerAlgo(6, 5) << '\n'; // usa el hacerAlgo() que existe en el namespace primero
+    std::cout <<  segundo::hacerAlgo(6, 5) << '\n'; // usa el hacerAlgo() que existe en el namespace segundo
 
     return 0;
 }

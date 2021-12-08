@@ -5,3 +5,6 @@ namespace primero // define un namespace llamado primero
     int hacerAlgo(int x, int y);
     
 }
+
+
+
